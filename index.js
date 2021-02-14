@@ -8,7 +8,7 @@ bot.on('ready', () => {
     console.log("Bot Prêt !");
 });
 
-bot.login('NDM0NjE3NzcxMDE2NTg1MjE4.DbNUSg.l2PGV1Y95ORzVfeE2HX6H_E3QqU');
+bot.login('NDM0NjE3NzcxMDE2NTg1MjE4.WtGvVw.TRUVHSDewbzWFOlY0qaud1ru0jc');
 
 bot.on('message', message => {
     if (message.content === "ping"){
